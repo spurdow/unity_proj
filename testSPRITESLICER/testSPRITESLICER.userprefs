@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\..\xampp\htdocs\RPSMasters\Assets\Scripts\Davy Scripts\rpsClickIndicator.cs">
+    <Files>
+      <File FileName="..\..\..\..\xampp\htdocs\RPSMasters\Assets\Scripts\Scene Scripts\PlayerInBattleController.cs" Line="24" Column="30" />
+      <File FileName="..\..\..\..\xampp\htdocs\RPSMasters\Assets\Scripts\Davy Scripts\rpsClickIndicator.cs" Line="5" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
